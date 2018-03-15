@@ -29,4 +29,13 @@ This tutorial is installing Python, Pycharm, Jupyter Notebook, Ancaconda Envirom
     
    Step by Step Tutorial for Installing Jupyter Notebook on (Window / Mac / Ubantu)
    https://codeburst.io/python-basics-1-hello-world-and-strings-de0d17857c93
+   
+ 6) Install Tensorflow on Python
+ https://www.tensorflow.org/install/install_windows
+ 
+ 7)  Install Tensorflow on Python 
+ http://scikit-learn.org/stable/install.html
+ 
+ 8) Install Pandas on Python
+ https://pandas.pydata.org/pandas-docs/stable/install.html
     
