@@ -1,7 +1,7 @@
-# Install-(Anconda-Windows-Mac-Ubuntu)
+# Install-(Anaconda-Windows-Mac-Ubuntu)
 Full Tutorial for Anconda Installation (Windows /Mac/Ubuntu) 
 
-This tutorial is installing Python, Pycharm, Jupyter Notebook, Ancaconda Enviroment for (Window/Mac/Ubantu).
+This tutorial is installing Python, Pycharm, Jupyter Notebook, Anaconda Enviroment for (Window/Mac/Ubantu).
 
 1) Download Link for Python Installer
    https://www.python.org/downloads/
@@ -24,10 +24,10 @@ This tutorial is installing Python, Pycharm, Jupyter Notebook, Ancaconda Envirom
    Step by Step Tutorial for Installing Anaconda on Linux
    https://medium.com/@GalarnykMichael/install-python-on-ubuntu-anaconda-65623042cb5a
 
-5) Install Jupyter Notebook on (Window / Mac / Ubantu)
+5) Install Jupyter Notebook on (Window / Mac / Ubuntu)
     http://jupyter.readthedocs.io/en/latest/install.html
     
-   Step by Step Tutorial for Installing Jupyter Notebook on (Window / Mac / Ubantu)
+   Step by Step Tutorial for Installing Jupyter Notebook on (Window / Mac / Ubuntu)
    https://codeburst.io/python-basics-1-hello-world-and-strings-de0d17857c93
    
  6) Install Tensorflow on Python
